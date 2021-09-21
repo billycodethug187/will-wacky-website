@@ -136,6 +136,7 @@ table {
 
 img {
     max-width: 100%;
+    opacity: 50%;
     height: auto;
     margin-bottom: -7px;
 }
